@@ -282,3 +282,5 @@ Library.new = function(Name)
 
 	return TabsLibrary
 end
+
+return Library
