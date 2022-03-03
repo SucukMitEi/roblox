@@ -2417,7 +2417,7 @@ freecamspeed = Freecam.CreateSlider({
 })
 
 local Panic = GuiLibrary["ObjectsThatCanBeSaved"]["UtilityWindow"]["Api"].CreateOptionsButton({
-	["Name"] = "Panic", 
+	["Name"] = "Panic xd", 
 	["Function"] = function(callback)
 		if callback then
 			for i,v in pairs(GuiLibrary["ObjectsThatCanBeSaved"]) do
@@ -2500,5 +2500,3 @@ ChatSpammerMessages = ChatSpammer.CreateTextList({
 	["TempText"] = "message to spam",
 	["Function"] = function() end
 })
-
-createwarning("Loaded", "Xd", 1)
