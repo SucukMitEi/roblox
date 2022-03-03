@@ -2500,3 +2500,5 @@ ChatSpammerMessages = ChatSpammer.CreateTextList({
 	["TempText"] = "message to spam",
 	["Function"] = function() end
 })
+
+createwarning("Loaded", "Xd", 1)
